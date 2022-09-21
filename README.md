@@ -6,7 +6,7 @@
 
 ## 𝘿𝙍𝘼𝙆╺ 𝙀𝙍𝙍𝙊𝙍 -𝗕𝗢𝗧࿐   Version 12.0
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝘿𝙍𝘼𝙆╺+𝙀𝙍𝙍𝙊𝙍+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝙳𝚁𝙰𝙺+𝙴𝚁𝚁𝙾𝚁+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝐌𝐑.𝐇𝐀𝐍𝐒𝐀𝐌𝐀𝐋𝐀;𝐌𝐑:+☬𝐌𝐑.𝐓𝐇𝐀𝐑𝐔𝐖𝐀࿐;💕𝐍𝐄𝐖 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓;𝐃𝐑𝐀𝐊 𝐄𝐑𝐑𝐎𝐑)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝘿𝙍𝘼𝙆+𝙀𝙍𝙍𝙊𝙍++𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈;+𝙳𝚁𝙰𝙺+𝙴𝚁𝚁𝙾𝚁+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝐌𝐑.𝐇𝐀𝐍𝐒𝐀𝐌𝐀𝐋𝐀;𝐌𝐑:+☬𝐌𝐑.𝐓𝐇𝐀𝐑𝐔𝐖𝐀࿐;💕𝐍𝐄𝐖_𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏_𝐁𝐎𝐓;𝐃𝐑𝐀𝐊+𝐄𝐑𝐑𝐎𝐑)](https://git.io/typing-svg)
 
 LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
 
@@ -35,7 +35,7 @@ LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
 
 <p align="center">
 
-<img src="https://i.ibb.co/6tCrPD6/image-downloader-1654443961039.gif" alt="nz" width="350"/>
+<img src="" alt="nz" width="350"/>
 
 </p>
 
