@@ -26,7 +26,7 @@ LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
 👇To proccess👇
 </p>
 
-## ➾ [Scan QR In Your Whatsapp From Here](CODE LINK එක )
+## ➾ [Scan QR In Your Whatsapp From Here](https://repl.it/badge/github/quiec/whatsAlfa)
  
 ## ➾ [Fork This Repo By Clicking Here](https://github.com/drakerrorbot/drakerrorbot/fork)
  
