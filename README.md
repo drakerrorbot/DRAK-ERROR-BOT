@@ -30,7 +30,8 @@ LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
  
 ## ➾ [Fork This Repo By Clicking Here](https://github.com/drakerrorbot/drakerrorbot/fork)
  
-## ➾ [Then Deploy The Bot From Here](link එක)
+## ➾ [Then Deploy The Bot From Here](https://www.herokucdn.com/deploy/button.svg)
+
 
 
 <p align="center">
@@ -132,7 +133,7 @@ Recommended WhatsApp👇
 	
 [![Run on Repl.it](L̑̈Ȋ̈n̑̈k̑̈ එක දෙන්න)
 
-[![Deploy](l̑̈ȋ̈n̑̈k̑̈ එක)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 </div>
 
 ## Thanks To
