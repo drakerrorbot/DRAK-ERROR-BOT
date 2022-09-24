@@ -1,202 +1,125 @@
-<p align="center">
-<img src="./Android/database/K.Prabhasha.gif" alt="Loading..." width="320"/>
-<p align="center">
-<img src="https://imgflip.com/gif/6tswjt" alt="nz" width="350"/>
-</p>
-
-## 𝘿𝙍𝘼𝙆╺ 𝙀𝙍𝙍𝙊𝙍 -𝗕𝗢𝗧࿐   Version 12.0
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝘿𝙍𝘼𝙆+𝙀𝙍𝙍𝙊𝙍++𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈;+𝙳𝚁𝙰𝙺+𝙴𝚁𝚁𝙾𝚁+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝐌𝐑.𝐇𝐀𝐍𝐒𝐀𝐌𝐀𝐋𝐀;𝐌𝐑:+☬𝐌𝐑.𝐓𝐇𝐀𝐑𝐔𝐖𝐀࿐;💕𝐍𝐄𝐖_𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏_𝐁𝐎𝐓;𝐃𝐑𝐀𝐊+𝐄𝐑𝐑𝐎𝐑)](https://git.io/typing-svg)
-
-LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
-
-> [🔄Please Follow Me🤭](https://github.com/drakerrorbot/drakerrorbot.git)
-
-<img src="./Android/database/MR.Hansamala-1.gif" alt="Loading..." width="310"/>
-
-> Image Designed By  ==(MR.HANSAMALA)== DRAK ERROR TEAM
-
-> Created By ==(MR.HANSAMALA)== DRAK ERROR TEAM
-
+<h1 align="center"> ⚜ 𝙳𝚁𝙰𝙺 𝙴𝚁𝚁𝙾𝚁 ⚜<br></h1>
 
 <p align="center">
-❯❯Kick bellow topics❮❮
-</p>
-<p align="center">
-👇To proccess👇
-</p>
 
-## ➾ [Scan QR In Your Whatsapp From Here](https://repl.it/badge/github/quiec/whatsAlfa)
+<img src="https://i.ibb.co/xjDHhtt/lv-0-20220918155017-unscreen.gif" alt="Whats-App-Image-2022-07-19-at-1-07-23-PM" border="0">
+
+# Setup For Deployment 👇
+
+- FORK THE REPOSITORY [Here](https://github.com/Nipuna-apps/Blue-Lione-Bot/fork)
+
+## `Scan QR Code For Session`
+
+[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@nipunarangana/Blue-Lione-Bot?v=1)
+
  
-## ➾ [Fork This Repo By Clicking Here](https://github.com/drakerrorbot/drakerrorbot/fork)
+
+```
+
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+
+```
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+  
+
  
-## ➾ [Then Deploy The Bot From Here](https://www.herokucdn.com/deploy/button.svg)
 
+ 
 
+# Install Manually 👇
 
-<p align="center">
+## `Requirements`
 
-<img src="" alt="nz" width="350"/>
+* [Node.js](https://nodejs.org/en/)
 
-</p>
+* [Git](https://git-scm.com/downloads)
 
-</details>
+* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
 
-<b><details><summary>🔄How to Update Bot🔄</summary>
+* [Libwebp](https://developers.google.com/speed/webp/download)
 
-> [VIDEO](https://drive.google.com/file/d/1798s8erVW31EcmK3Opq-QuV7GG4byyoH/view)
+* Any text editor
 
-</b>
-</details>
+## `Clone Repo & Installation dependencies`
 
-<b><details><summary>📤How to Upload Images To Alive Msg📤</summary>
+```bash
 
-> [VIDEO](https://drive.google.com/file/d/16J5278xK9-5oJUsGPygviVC9U6exw1AZ/view)
+git clone https://github.com/Nipuna-apps/Blue-Lione-Bot.git
 
-</b>
-</details>
+npm start
 
-<b><details><summary>🪀Recommended WhatsApps🪀</summary>
+```
 
->If you using mod whatsapp!
->DO NOT USE FOUD MODS.
+## `For Termux/Ssh/Ubuntu`
 
->ඔබ වට්සැප් මොඩ් භාවිතා කරනවා නම් Foud mod හෝ වෙනත් පරණ Base සහිත වට්සැප් මගින් ඔබේ ගිනුම තාවකාලිකව Ban විය හැකියි.
+```bash
 
-Recommended WhatsApp👇
->Normal WhatsApp [DOWNLOAD](https://play.google.com/store/apps/details?id=com.whatsapp)
->YMWhatsApp Mod [DOWNLOAD](https://ymwhatsapp.com/ymwa/)
+apt update
 
-</b>
-</details>
+apt upgrade
 
-##
+pkg update && pkg upgrade
 
-> [SUPPORT GROUP](https://chat.whatsapp.com/IopB0pUXuF22vlEMh9ZQff)
+pkg install bash
 
-<b><details><summary>𝗛𝗼𝘄 𝗧𝗼 𝗠𝗮𝗸𝗲?</summary>
+pkg install libwebp
 
->මුලින්ම qr code එක scan කරගන්න🥲. multi devices beta වැඩ කරනෝ
+pkg install git -y
 
->ඊට පස්සෙ මේ git එක fork කරගන්න. හරි. දැන් ඔයා fork කරගත්ත git එකට යන්න😌.
+pkg install nodejs -y 
 
->දැන් වට්සැප් එකේ ඔයාගෙ ලොක් අංගයට session.json කියලා file එකක් ඇවිල්ලා ඇති. ඒක තියෙන්නෙ Whatsapp > media > whatsapp documents > session.json  මෙතන.
+pkg install ffmpeg -y 
 
->දැන් ඔයා අර fork කරපු git එකට ආයි ගිහින් ඒ session.json එක upload කරලා commit changes දෙන්න...
+pkg install wget
 
->දැන් ආයි බැක් වෙලා Edit 'setting.js' With Your Choice ගිහින් ඒව මේව වෙනස් කරගන්න පුලුවම්...
+pkg install imagemagick -y
 
->යටට ගිහින් "Then Deploy The Bot From Here "👈මෙතනින් deploy කරන්න විතරයි තියෙන්නේ...
+git clone https://github.com/Nipuna-apps/Blue-Lione-Bot
 
-</b>
-</details>
+cd NeroBot-MD
 
-<!-- Contact Owner -->
-<b><details><summary>Contact Owner 😜</summary></b>
+npm start
 
-## ```Connect With Me```
-<p align="center">
-<a href="https://wa.me/94740203415"><img src="https://www.svgrepo.com/show/122874/whatsapp.svg" width="100"/>
-</p>
+```
 
-</details>
+## `For VPS`
 
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
-</p>
+```bash
 
-## 𝐌𝐑: ☬H̑̈Ȃ̈N̑̈S̑̈Ȃ̈M̑̈Ȃ̈L̑̈Ȃ̈༒࿐
+apt install nodejs 
 
+apt install git 
 
+apt apt install ffmpeg 
 
-<b><details><summary>Available Features</summary><br>
-	
-| Features |  Availability |
-| :------: |  :----------: |
-|   Convert     |       😎     |
-|   Database     |       😎     |
-|   Owner     |       😎    |
-|   Downloader     |       😎     |
-|   Webzone     |       😎       |
-|   Searching     |       😎      |
-|   Textpro     |       😎      |
-|   Ephoto     |       😎     |
-|   Anime Web     |       😎      |
-|   Stalker     |       😎      |
-|   Random Text     |       😎     |
-|   Random Image     |       😎     |
-|   Creator     |       😎      |
-
-</details>
-
-<div align="center">
-	
-[![Run on Repl.it](L̑̈Ȋ̈n̑̈k̑̈ එක දෙන්න)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy
-</div>
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
+apt apt install libwebp 
 
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
+apt apt install imagrmagick
 
-	
+apt install bash
 
-	
+git clone https://github.com/Nipuna-apps/Blue-Lione-Bot
 
-	
+cd DarkNero-MD2
 
-	
+npm start
 
-	
+```
 
-	
+## `For 24/7 Activation (Termux)`
 
-	
+```bash
 
-	
+npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
-	
+```
 
-	
+ 
 
-	
 
 	
 
@@ -258,4 +181,3 @@ Recommended WhatsApp👇
 
 	
 
-## Thanks To
